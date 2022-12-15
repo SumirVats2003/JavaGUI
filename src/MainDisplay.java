@@ -62,7 +62,7 @@ public class MainDisplay extends JFrame implements ActionListener {
         }
         if(e.getSource() == button2) {
             this.dispose();
-            new Polymorphism();
+            new Categories();
         }
         if(e.getSource() == button3) {
             this.dispose();
